@@ -5,6 +5,6 @@
 
 Time series analysis of the stocks of four of the biggest Brazilian banks with ARIMA modeling.
 
-### <img src="images/sound_wave.png" width=7% height=7%> [Sentiment Analysis With Top 10 Year-End Billboard Hits of 2022] (https://github.com/jonatribeiro/Sentiment-Analysis-With-Top-10-Year-End-Billboard-Hits-of-2022/blob/main/Sentiment_Analysis.ipynb)
+### <img src="images/sound_wave.png" width=7% height=7%> [Sentiment Analysis With Top 10 Year-End Billboard Hits of 2022](https://github.com/jonatribeiro/Sentiment-Analysis-With-Top-10-Year-End-Billboard-Hits-of-2022/blob/main/Sentiment_Analysis.ipynb)
 
 Unsupervised sentiment analysis of the Top 10 Year-End Billboard Hits of 2022 with VADER, TextBlob and Flair. 
