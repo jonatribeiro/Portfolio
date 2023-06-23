@@ -1,5 +1,5 @@
 # Portfolio
-## Here are some of my projects using data science and data analytics. Have fun!
+## Here are some of my data science and data analytics projects. Have fun!
 
 ### <img src="images/stock.jpg" width=8% height=8%> [Time Series Analysis and Modeling: Brazilian Stock Market](https://github.com/jonatribeiro/Time-Series-Analysis-and-Modeling-Brazilian-Stock-Market/blob/main/Stock_Market_Analysis.ipynb)
 
