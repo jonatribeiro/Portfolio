@@ -12,3 +12,7 @@ Unsupervised sentiment analysis of the Top 10 Year-End Billboard Hits of 2022 wi
 ### <img src="images/opencv.png" width=8% height=8%> [Image Detection and Recognition with OpenCV](https://github.com/jonatribeiro/Image-Detection-and-Classification-with-OpenCV/blob/main/Image_Classification.ipynb)
 
 Using OpenCV for detecting images and building a training dataset for an LBPH image classifying model.  
+
+### <img src="images/pikachu.png" width=6% height=6%> [Clustering Pokemon using K-Means and PokéAPI](https://github.com/jonatribeiro/Pokemon_Clustering/blob/main/Pokemon_Clustering.ipynb)
+
+ Studying the clustering of Pokemon stats data using K-Means and PokéAPI. 
