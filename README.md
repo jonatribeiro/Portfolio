@@ -19,4 +19,4 @@ Using OpenCV for detecting images and building a training dataset for an LBPH im
 
  ### <img src="images/rain.webp" width=8% height=8%> [Predicting if it's going to rain using Decision Tree, Random Forest, XGBoost and CatBoost classifiers](https://github.com/jonatribeiro/Rain_Prediction_Classification/blob/main/Rain_Prediction.ipynb)
 
- Studying the clustering of Pokemon stats data using K-Means and PokéAPI. 
+Testing classification models for predicting rainy days using weather data from Sao Paulo (Brazil).
