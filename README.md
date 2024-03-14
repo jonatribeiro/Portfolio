@@ -20,3 +20,7 @@ Using OpenCV for detecting images and building a training dataset for an LBPH im
  ### <img src="images/rain.webp" width=8% height=8%> [Predicting if it's going to rain using Decision Tree, Random Forest, XGBoost and CatBoost classifiers](https://github.com/jonatribeiro/Rain_Prediction_Classification/blob/main/Rain_Prediction.ipynb)
 
 Testing classification models for predicting rainy days using weather data from Sao Paulo (Brazil).
+
+ ### <img src="images/neural.jpg" width=6% height=6%> [Creating a simple CNN with Keras to classify CIFAR-10 images](https://github.com/jonatribeiro/Simple_CNN/blob/main/Simple_CNN.ipynb)
+
+ A method study of the development of a simple convolutional neural network for image classification using the CIFAR-10 dataset and Keras. 
